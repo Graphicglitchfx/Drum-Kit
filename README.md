@@ -1,2 +1,2 @@
 # Drum-Kit
-Drum Kit: Multi-kit drum machine, record/playback, metronome, volume &amp; theme controls. Vanilla JS + Web Audio API.
+Drum kit machine, record/playback, metronome, volume, theme controls. Vanilla JS and Web Audio API.
